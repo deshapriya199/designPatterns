@@ -1,5 +1,5 @@
 # DesignPatterns
 
 <p>Creational Patterns</p>
-Structural Patterns
-Behavioral Patterns
+<p>Structural Patterns</p>
+<p>Behavioral Patterns</p>
